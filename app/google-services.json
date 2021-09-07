@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744357744525",
+    "firebase_url": "https://aadl-230ea-default-rtdb.firebaseio.com",
+    "project_id": "aadl-230ea",
+    "storage_bucket": "aadl-230ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744357744525:android:e896d3dba631e6298937c4",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744357744525-ir4u6j86317v36mn48i082tv7n5vf2vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4D_ct48cheojv0Jz_BYKFVtH6N12FE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744357744525-ir4u6j86317v36mn48i082tv7n5vf2vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
